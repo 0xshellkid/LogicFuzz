@@ -1,13 +1,4 @@
-```python
-"""
-LogicFuzz Static Analysis
 
-This single-file module implements:
- 1. CWE-based bug clue extraction via LLM
- 2. AST parsing of Structured Text (ST) code using ANSTL
- 3. Semantic Dependency Graph (SDG) generation
- 4. Orchestrator function to analyze a given instruction
-"""
 import json
 import networkx as nx
 from openai import OpenAI
