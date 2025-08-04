@@ -41,7 +41,6 @@ python LogicFuzz/run.py --mode fuzzing --target <PLC_IP_ADDRESS:PORT>  --RoundTi
 ## 📖 Documentation
 
 - CLI usage reference: `python LogicFuzz/run.py --help`  
-- Report issues or request features: https://github.com/YourOrg/LogicFuzz/issues
 ---
 
 ## 🤝 Contributing
